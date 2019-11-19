@@ -39,6 +39,7 @@ During the course you are expected to read the following material:
 4. [Who's on first](https://www.nature.com/naturejobs/science/articles/10.1038/nj7417-591a) by Amber Dance, Nature 489, pp. 591-593, September 2012.
 5. [Co-authors gone bad – how to avoid publishing conflicts](https://www.elsevier.com/connect/co-authors-gone-bad-how-to-avoid-publishing-conflicts) by Richard B. Primack, John A. Cigliano, and Chris Parsons, Biological Conservation Journal, April 2014.
 6. [DoRA](https://sfdora.org/read/) - the San Fransisco Declaration on Research Assessment
+7. [Farewell authors, hello contributors](https://www.nature.com/articles/d41586-019-02084-8), by Alex Holcombe, Nature, July 2019.
 
 ## Contact and Signup
 There is no formal signup process. You will to first talk to your supervisor and examiner and get their support in taking the course. If they support it you can then contact me directly and we will plan your specific version of the course: robert.feldt at chalmers.se
