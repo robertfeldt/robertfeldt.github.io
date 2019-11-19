@@ -15,7 +15,7 @@ The goals are that you are aware of the many different types of contributions to
 The course is a fluid/flexible course which is adapted to your needs and timeline as a PhD student. There are occasional seminars that relate to topics in the course but even if there are none when it best suits you the course can be adapted to your situation.
 
 ## Format
-The primary format for the course is student reflection which is documented in short half-page emails when the student has submitted a paper to a venue. These emails and, optionally, short discussions around them with the course examiner, is then assembled into two rflective reports (one 6 months prior to the licentiate and one 12 months prior to the PhD defence/viva).
+The primary format for the course is student reflection which is documented in short half-page emails when the student has submitted a paper to a venue. These emails and, optionally, short discussions around them with the course examiner, is then assembled into two reflective reports (one 6 months prior to the licentiate and one 12 months prior to the PhD defence/viva).
 
 Infrequently, there are also seminars held at the SE division where course participants and senior faculty discuss issues related to the course. Example of seminar topics:
 
@@ -25,10 +25,10 @@ Infrequently, there are also seminars held at the SE division where course parti
 4. Assessment of Research Scholars
 
 ## Examination
-The course is examined based on the two reflective reports around the time of the Licentiate and PhD vivas/defences. Proof of participation (or alternatively reflection after reading relevant course materials) in relevant course seminars is also required to get the full 3 ECTS course credits.
+The course is examined based on the two reflective reports around the time of the Licentiate and PhD vivas/defences of the student. Proof of participation (or alternatively reflection after reading related course materials) in relevant course seminars is also required to get the full 3 ECTS course credits.
 
 ## Eligibility
-The primary focus is PhD students enrolled at the Software Engineering Division at the Department of Computer Science and Engineering (CSE) at Chalmers | University of Gothenburg, Sweden.
+The primary focus is PhD students enrolled at the Software Engineering Division at the Department of Computer Science and Engineering (CSE) at Chalmers | University of Gothenburg, Sweden. The only requirement is that you have or are about to submit a research paper. You can sign up also after you have already published one or more papers.
 
 ## Course materials
 During the course you are expected to read the following material:
