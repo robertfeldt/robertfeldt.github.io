@@ -81,7 +81,7 @@ The ASA ([American Statistical Association](https://www.amstat.org)) in their 20
 
 See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote. For what we should do instead see Robert's thoughts on [Slide 23](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=23) but you should also [check the editorial](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) and some papers of the above-mentioned special issue to get the views of the statisticians.
 
-### Q7. How can BDA help analysing practical significance of SE results?
+### Q7. How can BDA help analyse practical significance of SE results?
 
 The output of a Bayesian analysis is a posterior distribution with a large number of samples of all the parameters of your model. It summarizes the knowledge you have gained about the model, i.e. "*What are plausible parameter values of my model given the empirical data I collected?*". Importantly, it brings with it the uncertainty of that knowledge. We can perform computations on this posterior to calculate quantities of interest for practitioners and then answer concrete questions they have. And the computations we do will carry the uncertainty of the posterior with them.
 
