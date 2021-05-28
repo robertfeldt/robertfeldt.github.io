@@ -53,7 +53,11 @@ Find an up-to-date library that is easy for you to work with in a language and w
 
 1. [brms](https://github.com/paul-buerkner/brms) for R
 2. [Stan.jl](https://github.com/StanJulia/Stan.jl) for Julia
-3. [PyStan])(https://pystan.readthedocs.io/en/latest/) for Python
+3. [PyStan](https://pystan.readthedocs.io/en/latest/) for Python
 4. There are also Stan interfaces for Matlab, Stata, Mathematica etc, see [Stan interfaces](https://mc-stan.org/users/interfaces/)
 
 For the future we are optimistic about the [Turing.jl](https://turing.ml) library for Julia since it has the potential to be even more flexible, powerful, and scalable/fast than solutions based on Stan. However, it is not yet as mature as libraries and tools based on Stan.
+
+### Q5. Are there guidelines and recommended workflows for doing BDA in SE?
+
+Workflows and guidelines are currently under development in statistics and there is not yet a clear consensus. For a detailed and up-to-date guide see the current version of the "Bayesian Workflow"(https://arxiv.org/pdf/2011.01808.pdf) book being written by Gelman et al. We have tried to present a shorter, condensed workflow for BDA in SE in Section 2 of [paper 3](https://arxiv.org/pdf/2101.12591.pdf).
