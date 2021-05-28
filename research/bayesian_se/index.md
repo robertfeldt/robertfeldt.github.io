@@ -19,7 +19,7 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
 
 We recommend you buy and read/follow the book [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath. We **strongly** recommend you get the 2nd edition since it involves and is based on causal analysis which will be of great importance for science (and SE) longer-term.
 
-### Q2. What if I want a more SE-specific starting point?
+### Q2. What if I want more SE-specific BDA starting points?
 
 You might find it useful to start with our "trifecta" of papers arguing for and providing SE-specific processes and examples:
 
@@ -54,7 +54,7 @@ Other papers in SE include:
 7. Fault localization algorithm: [Scholz2020](https://arxiv.org/pdf/2007.09394.pdf), "An empirical study of Linespots: A novel past-fault algorithm", in submission.
 8. Requirements prioritization criteria: [BerntssonSvensson2021](https://arxiv.org/pdf/2104.06033.pdf), "Not all requirements prioritization criteria are equal at all times: A quantitative analysis", in submission.
 
-One early re-analysis was in Carlo's arXiv report ["Bayesian Statistics in Software Engineering: Practical Guide and Case Studies"](https://arxiv.org/pdf/1608.06865.pdf) but it's analysis (on performance of programs implemented in different languages) was superseded by the one in [paper 1](https://arxiv.org/pdf/1809.09849.pdf).
+One early re-analysis was in Carlo's arXiv report ["Bayesian Statistics in Software Engineering: Practical Guide and Case Studies"](https://arxiv.org/pdf/1608.06865.pdf) but its analysis (on performance of programs implemented in different languages) was superseded by the one in [paper 1](https://arxiv.org/pdf/1809.09849.pdf).
 
 Most likely there are also other and earlier examples and we would like to collect them. If you know of papers that do Bayesian analysis of SE-related data please contact us or make a pull request to this page. Thanks!
 
