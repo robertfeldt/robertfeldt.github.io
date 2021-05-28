@@ -10,7 +10,7 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
   1. [Ten reasons for using Bayesian data analysis in empirical software engineering](https://youtu.be/Qf7oNkZan3U).
   2. How do we do Bayesian data analysis?
     - a, [An overview](https://youtu.be/4z-8-4BSl1M).
-    - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg). [Code/scripts](https://github.com/torkar/icse_tutorial)
+    - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg). ([Code/scripts](https://github.com/torkar/icse_tutorial))
   3. [Using bayesian data analysis in software engineering](https://youtu.be/MVxGYezzn9s). ([Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf))
 
 ## FAQ
