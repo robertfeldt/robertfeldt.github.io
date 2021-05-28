@@ -64,8 +64,8 @@ Workflows and guidelines are currently under development in statistics and there
 
 ### Q6. Is it true that statisticians discourages the use of p-values?
 
-The ASA ([American Statistical Association](https://www.amstat.org)) in their "ASA Statement on P-Values and Statistical Significance" discouraged the use of declarations of "statistical significance". In a 2019 editorial of the ASA journal AST the Editors of the special issue on ["Moving to a world beyond p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) then said: 
+The ASA ([American Statistical Association](https://www.amstat.org)) in their 2016 ["ASA Statement on P-Values"](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) discouraged the use of declarations of "statistical significance". In a 2019 editorial of the ASA journal AST the Editors of the special issue on ["Moving to a world beyond p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) then said: 
 
 "We conclude, based on our review of the articles in this special issue and the broader literature, that **it is time to stop using the term 'statistically significant' entirely**. Nor should variants such as 'statistically different', 'p < 0.05' and 'nonsignificant' survive, whether expressed in words, by asterisk in a table, or in some other way". 
 
-See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote.
+See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote. For what we should do instead see [Slide 23](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=23).
