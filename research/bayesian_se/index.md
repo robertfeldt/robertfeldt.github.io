@@ -11,7 +11,7 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
   2. How do we do Bayesian data analysis?
     - a, [An overview](https://youtu.be/4z-8-4BSl1M)
     - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg) [Code/scripts](https://github.com/torkar/icse_tutorial)
-  3. [Using baysian data analysis in software engineering](https://youtu.be/MVxGYezzn9s) [Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf)
+  3. [Using bayesian data analysis in software engineering](https://youtu.be/MVxGYezzn9s) [Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf)
 
 ## FAQ
 
@@ -54,7 +54,7 @@ Other papers in SE include:
 7. Fault localization algorithm: [Scholz2020](https://arxiv.org/pdf/2007.09394.pdf), "An empirical study of Linespots: A novel past-fault algorithm", in submission.
 8. Requirements prioritization criteria: [BerntssonSvensson2021](https://arxiv.org/pdf/2104.06033.pdf), "Not all requirements prioritization criteria are equal at all times: A quantitative analysis", in submission.
 
-One early re-analysis was in Carlo's arXiv report ["Bayesian Statistics in Software Engineering: Practical Guide and Case Studies"](https://arxiv.org/pdf/1608.06865.pdf) but it's analysis (on performance of programs inplmented in different languages) was superseded by the one in [paper 1](https://arxiv.org/pdf/1809.09849.pdf).
+One early re-analysis was in Carlo's arXiv report ["Bayesian Statistics in Software Engineering: Practical Guide and Case Studies"](https://arxiv.org/pdf/1608.06865.pdf) but it's analysis (on performance of programs implemented in different languages) was superseded by the one in [paper 1](https://arxiv.org/pdf/1809.09849.pdf).
 
 Most likely there are also other and earlier examples and we would like to collect them. If you know of papers that do Bayesian analysis of SE-related data please contact us or make a pull request to this page. Thanks!
 
