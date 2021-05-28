@@ -54,6 +54,8 @@ Other papers in SE include:
 7. Fault localization algorithm: [Scholz2020](https://arxiv.org/pdf/2007.09394.pdf), "An empirical study of Linespots: A novel past-fault algorithm", in submission.
 8. Requirements prioritization criteria: [BerntssonSvensson2021](https://arxiv.org/pdf/2104.06033.pdf), "Not all requirements prioritization criteria are equal at all times: A quantitative analysis", in submission.
 
+One early re-analysis was in Carlo's arXiv report ["Bayesian Statistics in Software Engineering: Practical Guide and Case Studies"](https://arxiv.org/pdf/1608.06865.pdf) but it's analysis (on performance of programs inplmented in different languages) was superseded by the one in [paper 1](https://arxiv.org/pdf/1809.09849.pdf).
+
 Most likely there are also other and earlier examples and we would like to collect them. If you know of papers that do Bayesian analysis of SE-related data please contact us or make a pull request to this page. Thanks!
 
 ### Q4. Which tools do you recommend?
@@ -77,4 +79,4 @@ The ASA ([American Statistical Association](https://www.amstat.org)) in their 20
 
 "We conclude, based on our review of the articles in this special issue and the broader literature, that **it is time to stop using the term 'statistically significant' entirely**. Nor should variants such as 'statistically different', 'p < 0.05' and 'nonsignificant' survive, whether expressed in words, by asterisk in a table, or in some other way". 
 
-See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote. For what we should do instead see [Slide 23](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=23).
+See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote. For what we should do instead see Robert's thoughts on [Slide 23](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=23) but you should also [check the editorial](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) and some papers of the above-mentioned special issue to get the views of the statisticians.
