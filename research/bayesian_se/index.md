@@ -7,11 +7,11 @@ Some pointers to help you get started doing Bayesian analysis on your SE data.
 We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (short tutorial) on Bayesian Data Analysis for SE at ICSE 2021 ("in" Madrid, i.e. online/virtual).
 
 - [YouTube playlist](http://tiny.cc/bayes-icse21) with videos (3 parts but split into 4 videos)
-  1. [Ten reasons for using Bayesian data analysis in empirical software engineering](https://youtu.be/Qf7oNkZan3U)
+  1. [Ten reasons for using Bayesian data analysis in empirical software engineering](https://youtu.be/Qf7oNkZan3U).
   2. How do we do Bayesian data analysis?
-    - a, [An overview](https://youtu.be/4z-8-4BSl1M)
-    - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg) [Code/scripts](https://github.com/torkar/icse_tutorial)
-  3. [Using bayesian data analysis in software engineering](https://youtu.be/MVxGYezzn9s) [Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf)
+    - a, [An overview](https://youtu.be/4z-8-4BSl1M).
+    - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg). [Code/scripts](https://github.com/torkar/icse_tutorial)
+  3. [Using bayesian data analysis in software engineering](https://youtu.be/MVxGYezzn9s). ([Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf))
 
 ## FAQ
 
