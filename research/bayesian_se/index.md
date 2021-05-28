@@ -15,7 +15,7 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
 
 ## FAQ
 
-### Q1. Ok, BDA sounds great, but how do I get started?
+### Q1. BDA sounds great, but how do **I** get started?
 
 We recommend you buy and read/follow the book [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath. We **strongly** recommend you get the 2nd edition since it involves and is based on causal analysis which will be of great importance for science (and SE) longer-term.
 
@@ -24,10 +24,10 @@ We recommend you buy and read/follow the book [Statistical Rethinking](https://x
 You might find it useful to start with our "trifecta" of papers arguing for and providing SE-specific processes and examples:
 
 1. Furia, C. A., R. Feldt, and R. Torkar. "[Bayesian data analysis in empirical software engineering research](https://arxiv.org/pdf/1811.05422.pdf)." IEEE Transactions on Software Engineering (2019). [IEEE link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8807222&casa_token=RtQXHSjHI50AAAAA:U8nb4QzGFyfI4Pb0-246vfowyUhFVSgLsdjLYO44rgUTRDGwma3XfCaOI-i8LOajqCkoi7sG&tag=1)
-  - Summarizes some disadvantages of traditional, frequentist statistics
-  - Argues that Bayesian statistical analysis should have a more prominent role in SE
-  - High-level overview of Bayesian statists
-  - Re-analyses two SE datasets
+    - Summarizes some disadvantages of traditional, frequentist statistics
+    - Argues that Bayesian statistical analysis should have a more prominent role in SE
+    - High-level overview of Bayesian statists
+    - Re-analyses two SE datasets
 2. Torkar, R., C. A. Furia, R. Feldt, ... "[A Method to Assess and Argue for Practical Significance in Software Engineering](https://arxiv.org/pdf/1809.09849.pdf)." IEEE Transactions on Software Engineering (2020). [IEEE link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314270)
 3. Furia, C. A., R. Torkar, and R. Feldt. "[Applying Bayesian Analysis Guidelines to Empirical Software Engineering Data: The Case of Programming Languages and Code Quality](https://arxiv.org/pdf/2101.12591.pdf).", 2021, in submission.
 
@@ -42,6 +42,18 @@ Our published papers have analyzed a few different SE-related data sets:
 3. Effectiveness of exploratory vs scripted testing: Section 3 of [paper 2](https://arxiv.org/pdf/1809.09849.pdf) analyses data from the paper [Afzal2015](https://www.diva-portal.org/smash/get/diva2:834260/FULLTEXT02), "An experiment on the effectiveness and efficiency of exploratory testing".
 
 Our paper that is currently in submission analyzes:
+
 4. Programming language and code quality: Section 3 of [paper 3](https://arxiv.org/pdf/2101.12591.pdf) analyses data from the paper [Ray2014](https://dl.acm.org/doi/pdf/10.1145/2635868.2635922), "A large scale study of programming languages and code quality in Github".
 
 Most likely there are also other and earlier examples and we would like to collect them. If you know of papers that do Bayesian analysis of SE-related data please contact us or make a pull request to this page. Thanks!
+
+### Q4. Which tools do you recommend?
+
+Find an up-to-date library that is easy for you to work with in a language and with tools you already know. The main workhorse of modern BDA is the [Stan tool](https://mc-stan.org) but it is easier to use it from libraries in your language of choice:
+
+1. [brms](https://github.com/paul-buerkner/brms) for R
+2. [Stan.jl](https://github.com/StanJulia/Stan.jl) for Julia
+3. [PyStan])(https://pystan.readthedocs.io/en/latest/) for Python
+4. There are also Stan interfaces for Matlab, Stata, Mathematica etc, see [Stan interfaces](https://mc-stan.org/users/interfaces/)
+
+For the future we are optimistic about the [Turing.jl](https://turing.ml) library for Julia since it has the potential to be even more flexible, powerful, and scalable/fast than solutions based on Stan. However, it is not yet as mature as libraries and tools based on Stan.
