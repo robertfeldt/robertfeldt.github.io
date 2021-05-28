@@ -1,6 +1,6 @@
 # Bayesian Data Analysis for Software Engineering
 
-Key pointers to help you get started doing Bayesian analysis on your SE data.
+Some pointers to help you get started doing Bayesian analysis on your SE data.
 
 ## ICSE 2021 Technical Briefing
 
