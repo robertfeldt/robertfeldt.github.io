@@ -11,7 +11,7 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
   2. How do we do Bayesian data analysis?
     - a, [An overview](https://youtu.be/4z-8-4BSl1M)
     - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg)
-  3. [Using baysian data analysis in software engineering](https://youtu.be/MVxGYezzn9s) [Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt)
+  3. [Using baysian data analysis in software engineering](https://youtu.be/MVxGYezzn9s) [Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf)
 
 ## FAQ
 
