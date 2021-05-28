@@ -29,7 +29,9 @@ You might find it useful to start with our "trifecta" of papers arguing for and 
     - High-level overview of Bayesian statists
     - Re-analyses two SE datasets
 2. Torkar, R., C. A. Furia, R. Feldt, ... "[A Method to Assess and Argue for Practical Significance in Software Engineering](https://arxiv.org/pdf/1809.09849.pdf)." IEEE Transactions on Software Engineering (2020). [IEEE link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314270)
+    - Method for analysing practical significance of SE results based on BDA, with showcase on SE data
 3. Furia, C. A., R. Torkar, and R. Feldt. "[Applying Bayesian Analysis Guidelines to Empirical Software Engineering Data: The Case of Programming Languages and Code Quality](https://arxiv.org/pdf/2101.12591.pdf).", 2021, in submission.
+    - Condensed BDA guidelines for SE, with showcase on one SE data set
 
 If you find them useful and then go on to publish and use BDA in your paper we would appreciate if you cite our work.
 
