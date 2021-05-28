@@ -73,7 +73,7 @@ For the future we are optimistic about the [Turing.jl](https://turing.ml) librar
 
 Workflows and guidelines are currently under development in statistics and there is not yet a clear consensus. For a detailed and up-to-date guide see the current version of the ["Bayesian Workflow"](https://arxiv.org/pdf/2011.01808.pdf) book being written by Gelman et al. We have tried to present a shorter, condensed workflow for BDA in SE in Section 2 of [paper 3](https://arxiv.org/pdf/2101.12591.pdf).
 
-### Q6. Is it true that statisticians discourages the use of p-values?
+### Q6. Is it true that statisticians discourages the use of p-values and "statistically significant"?
 
 The ASA ([American Statistical Association](https://www.amstat.org)) in their 2016 ["ASA Statement on P-Values"](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) discouraged the use of declarations of "statistical significance". In a 2019 editorial of the ASA journal AST the Editors of the special issue on ["Moving to a world beyond p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) then said: 
 
