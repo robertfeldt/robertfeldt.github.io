@@ -60,4 +60,12 @@ For the future we are optimistic about the [Turing.jl](https://turing.ml) librar
 
 ### Q5. Are there guidelines and recommended workflows for doing BDA in SE?
 
-Workflows and guidelines are currently under development in statistics and there is not yet a clear consensus. For a detailed and up-to-date guide see the current version of the "Bayesian Workflow"(https://arxiv.org/pdf/2011.01808.pdf) book being written by Gelman et al. We have tried to present a shorter, condensed workflow for BDA in SE in Section 2 of [paper 3](https://arxiv.org/pdf/2101.12591.pdf).
+Workflows and guidelines are currently under development in statistics and there is not yet a clear consensus. For a detailed and up-to-date guide see the current version of the ["Bayesian Workflow"](https://arxiv.org/pdf/2011.01808.pdf) book being written by Gelman et al. We have tried to present a shorter, condensed workflow for BDA in SE in Section 2 of [paper 3](https://arxiv.org/pdf/2101.12591.pdf).
+
+### Q6. Is it true that statisticians discourages the use of p-values?
+
+The ASA ([American Statistical Association](https://www.amstat.org)) in their "ASA Statement on P-Values and Statistical Significance" discouraged the use of declarations of "statistical significance". In a 2019 editorial of the ASA journal AST the Editors of the special issue on ["Moving to a world beyond p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) then said: 
+
+"We conclude, based on our review of the articles in this special issue and the broader literature, that **it is time to stop using the term 'statistically significant' entirely**. Nor should variants such as 'statistically different', 'p < 0.05' and 'nonsignificant' survive, whether expressed in words, by asterisk in a table, or in some other way". 
+
+See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote.
