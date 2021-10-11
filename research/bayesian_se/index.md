@@ -30,7 +30,7 @@ You might find it useful to start with our "trifecta" of papers arguing for and 
     - Re-analyses two SE datasets
 2. Torkar, R., C. A. Furia, R. Feldt, ... "[A Method to Assess and Argue for Practical Significance in Software Engineering](https://arxiv.org/pdf/1809.09849.pdf)." IEEE Transactions on Software Engineering (2020). [IEEE link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314270)
     - Method for analysing practical significance of SE results based on BDA, with showcase on SE data
-3. Furia, C. A., R. Torkar, and R. Feldt. "[Applying Bayesian Analysis Guidelines to Empirical Software Engineering Data: The Case of Programming Languages and Code Quality](https://arxiv.org/pdf/2101.12591.pdf).", 2021, in submission.
+3. Furia, C. A., R. Torkar, and R. Feldt. "[Applying Bayesian Analysis Guidelines to Empirical Software Engineering Data: The Case of Programming Languages and Code Quality](https://arxiv.org/pdf/2101.12591.pdf).", accepted in ACM TOSEM, October 2021.
     - Condensed BDA guidelines for SE, with showcase on one SE data set
 
 If you find them useful and then go on to publish and use BDA in your paper we would appreciate if you cite our work.
@@ -81,7 +81,7 @@ The ASA ([American Statistical Association](https://www.amstat.org)) in their 20
 
 See [slides 20 and 21](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=20) in Robert Feldt's ESEM 2019 keynote for links and the actual quote. For what we should do instead see Robert's thoughts on [Slide 23](https://speakerdeck.com/robertfeldt/empirical-software-engineering-as-a-science-challenges-and-ways-forward?slide=23) but you should also [check the editorial](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) and some papers of the above-mentioned special issue to get the views of the statisticians.
 
-### Q7. How can BDA help analyse practical significance of SE results?
+### Q7. How can BDA help analyze practical significance of SE results?
 
 The output of a Bayesian analysis is a posterior distribution with a large number of samples of all the parameters of your model. It summarizes the knowledge you have gained about the model, i.e. "*What are plausible parameter values of my model given the empirical data I collected?*". Importantly, it brings with it the uncertainty of that knowledge. We can perform computations on this posterior to calculate quantities of interest for practitioners and then answer concrete questions they have. And the computations we do will carry the uncertainty of the posterior with them.
 
