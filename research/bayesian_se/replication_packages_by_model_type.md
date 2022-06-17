@@ -15,12 +15,14 @@ Of course, this is rather ad hoc and other criteria or orderings can be consider
 
 Straight list of replication packages, in rough chronological order and by type of data it works with:
 
-1. [Survey data on developer stress](https://github.com/torkar/rise2flow)
+1. [Exploratory vs scripted testing](https://github.com/torkar/docker-b3)
+    - N = 70, 4 vars: 2 Binary, 2 Integer
+2. [Survey data on developer stress](https://github.com/torkar/rise2flow)
     - N = 187, 86 vars: 26 Binary, 3 Categorical, 50 Categorical likert, 3 Ordinal Integer, 4 Integer
-2. [Toy (human height)data and ISBSG metrics data](https://github.com/torkar/BDA_in_ESE)
-3. [Affective states in technical debt](https://github.com/torkar/affective_states)
+3. [Toy (human height)data and ISBSG metrics data](https://github.com/torkar/BDA_in_ESE)
+4. [Affective states in technical debt](https://github.com/torkar/affective_states)
     - N = 200, 11 vars: 4 Categorical, 5 Ordinal Integer, 2 Integer
-4. [Feature selection in Requirements Engineering](https://github.com/torkar/feature-selection-RBS)
+5. [Feature selection in Requirements Engineering](https://github.com/torkar/feature-selection-RBS)
     - N = 11110, 18 vars: 7 Categorical, 11 Continuous
-5. [Programming language data](https://github.com/torkar/BDA-PL)
+6. [Programming language data](https://github.com/torkar/BDA-PL)
     - N = 5102488, 17 vars: 1 Binary, 9 Categorical, 5 Integer, 2 Mixed
