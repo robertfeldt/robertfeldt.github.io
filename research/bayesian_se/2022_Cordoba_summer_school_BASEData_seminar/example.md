@@ -18,7 +18,7 @@ Our key idea is that we want to reduce the execution effort by making only pair-
 
 ## Dataset
 
-Pair-wise comparisons so each row of data has:
+Pair-wise comparisons so each row of [data](bbo_5alg_5problem_pairwise_comparisons_full.csv) has:
 
 1. **Problem** - name of problem
 2. **Dim** - dimension of problem used
