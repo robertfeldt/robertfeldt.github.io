@@ -4,7 +4,7 @@ This is a small/simple example of how to perform a Bayesian Analysis of some sof
 
 **RQ. Which search/optimization algorithm performs best?**
 
-In particular, we used the [Julia](www.julialang.org) library [`BlackBoxOptim`](https://github.com/robertfeldt/BlackBoxOptim.jl/) (version 0.6.1) to compare how five (5) different optimization algorithms performed on each of five (5) different optimization problems.
+In particular, we used the [Julia](https://julialang.org/) library [`BlackBoxOptim`](https://github.com/robertfeldt/BlackBoxOptim.jl/) (version 0.6.1) to compare how five (5) different optimization algorithms performed on each of five (5) different optimization problems.
 
 ## Dataset
 
