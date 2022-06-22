@@ -29,11 +29,10 @@ const alg1 = Int[findfirst(==(a), Algs) for a in df.Alg1]
 const alg2 = Int[findfirst(==(a), Algs) for a in df.Alg2]
 const twowins = df.Winner
 
-# Make a function that samples the posterior given the prior param(s)
+# Function that samples the posterior given the prior param(s).
 function m1_posterior_for_prior(priorExpParam)
     m = m1_prior_parameterized(alg1, alg2, twowins, priorExpParam)
-    chains = sample(m, DynamicNUTS(), 
-        MCMCThreads(), 2_000, 5)
+    chains = sample(m, DynamicNUTS(), MCMCThreads(), 2_000, 5)
     return chains, m
 end
 
@@ -66,3 +65,7 @@ summarize_ranks(calc_ranks(Algs, DataFrame(c_01), "a"), Algs)
 # Not even with a very unusual prior do we get into problems, ranks are very close to unchanged:
 c_100, m_100 = m1_posterior_for_prior(100.0)
 summarize_ranks(calc_ranks(Algs, DataFrame(c_100), "a"), Algs)
+
+# Of course, if we re-run this with less data the choice of prior
+# is likely to be more important. So in situations with little data
+# be sure to spend time on choice of and analysis of your priors.
