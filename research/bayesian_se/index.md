@@ -13,6 +13,13 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
     - b, [A small hands-on example](https://youtu.be/U6s5-fGPoxg). ([Code/scripts](https://github.com/torkar/icse_tutorial))
   3. [Using bayesian data analysis in software engineering](https://youtu.be/MVxGYezzn9s). ([Slides](UsingBDAinSE_part3_ICSE2021_TechBriefing_Feldt.pdf))
 
+## Cordoba 2022 SMILES Summer School Seminar
+
+Robert Feldt held a seminar on "Bayesian Analysis of SE Data" at the International Summer School on Search- and Machine Learning-based Software Engineering, in Cordoba, Spain.
+
+- Slides: To be added!
+- Bayesian Analysis Example: Which algorithm is best?
+
 ## FAQ
 
 ### Q1. BDA sounds great, but how do **I** get started?
