@@ -15,10 +15,10 @@ We (Richard Torkar, Carlo Furia and yours truly) held a technical briefing (shor
 
 ## Cordoba 2022 SMILES Summer School Seminar
 
-Robert Feldt held a seminar on "Bayesian Analysis of SE Data" at the International Summer School on Search- and Machine Learning-based Software Engineering, in Cordoba, Spain.
+Robert Feldt held a seminar on "Bayesian Analysis of SE Data" at the International [Summer School on Search- and Machine Learning-based Software Engineering](https://www.uco.es/smileseng/), in Cordoba, Spain on June 22nd of 2022.
 
 - Slides: To be added!
-- Bayesian Analysis Example: Which algorithm is best?
+- [Bayesian Analysis Example: Which algorithm is best?](2022_Cordoba_summer_school_BASEData_seminar/example.md)
 
 ## FAQ
 
