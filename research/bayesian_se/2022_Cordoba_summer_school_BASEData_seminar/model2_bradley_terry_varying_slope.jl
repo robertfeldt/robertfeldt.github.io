@@ -1,7 +1,5 @@
 #include("common.jl")
 
-df = dffull
-
 # Bradley Terry model with 
 #   - a single logit value per algorithm, and 
 #   - a linear factor capturing scaling with dimension per algorithm
