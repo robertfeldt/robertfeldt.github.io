@@ -38,6 +38,11 @@ For simplicity, and since there was limited time during the seminar, we implemen
 1. [M1](model1_bradley_terry.jl), the Bradley-Terry model with a single logit value per algorithm
 2. [M2](model2_bradley_terry_varying_slope.jl), a more complex model that also takes the dimension of the search problem into account by modeling how the performance of the algorithms change with varying problem dimension.
 
-I didn't have time in the seminar but I also had prepared some more analyses afterwards:
+### Sensitivity analyses
 
-3. [M1 prior sensitivity analysis](model1_prior_sensitivity_analysis.jl) which varies the priors to see how much the conclusions are affected. Turns out the analysis is **NOT** sensitive to the choice of priors, at least when used on 200 observations (pair-wise) comparisons.
+I didn't have time to show this in the seminar but I also had prepared some more sensitivity analyses afterwards:
+
+3. [M1 prior sensitivity analysis](model1_prior_sensitivity_analysis.jl) which varies the priors to see how much the conclusions are affected. 
+  - Turns out the analysis is **NOT** sensitive to the choice of priors, at least when used on 200 observations (pair-wise) comparisons.
+4. [M1 num observations sensitivity analysis](model1_num_observations_sensitivity_analysis.jl) which varies the priors **AND** the number of observations (data points) to see how much the conclusions are affected. 
+  - Confirms that analysis is **NOT** sensitive to the choice of priors. Furthermore, we see that there is little variation after about 200-500 observations are used.
